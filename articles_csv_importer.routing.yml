@@ -1,0 +1,7 @@
+articles_csv_importer.content:
+  path: '/articles_csv_importer'
+  defaults:
+    _form: '\Drupal\articles_csv_importer\Form\ImportForm'
+    _title: 'Articles CSV Importer'
+  requirements:
+    _permission: 'access administration pages'

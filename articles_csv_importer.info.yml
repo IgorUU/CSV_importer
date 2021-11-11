@@ -1,0 +1,4 @@
+name: Articles CSV Importer
+description: Importes data from a CSV file
+type: module
+core_version_requirement: ^8 || ^9
